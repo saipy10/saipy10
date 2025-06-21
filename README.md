@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saipy10" alt="saipy10" /></a> </p>
 
-- 🔭 I’m currently working on **Anuvaadak**
+- 🔭 I’m currently working on **PruneKit**
 
 - 🌱 I’m currently learning **more about computer science and engineering**
 
