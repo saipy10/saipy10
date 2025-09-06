@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sairaj G. Adhav</h1>
 <h3 align="center">A passionate computer engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saipy10&label=Profile%20views&color=0e75b6&style=flat" alt="saipy10" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saipy10" alt="saipy10" /></a> </p>
 
 - 🔭 I’m currently working on **PruneKit**
