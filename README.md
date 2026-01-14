@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sairaj G. Adhav</h1>
 <h3 align="center">A passionate computer engineer </h3>
 
-- 🔭 I’m currently working on **PruneKit**
+- 🔭 I’m currently working on **Lenly**
 
 - 🌱 I’m currently learning **more about computer science and engineering**
 
