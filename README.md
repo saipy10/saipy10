@@ -5,7 +5,7 @@
 
 - 📝 Writes technically interesting subjects
 
-- 📊 Fond of architectures.
+- 📊 Fond of computer architectures and system design
 
 - 📫 How to reach me **sairaj10adhav@gmail.com**
 
