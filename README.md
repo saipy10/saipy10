@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sairaj G. Adhav</h1>
 <h3 align="center">A passionate computer engineer </h3>
 
-- 🔭 I’m currently working on **Lenly**
+- 🔭 Interested in **Artificial Intelligence** and **Machine Learning**
 
-- 🌱 I’m currently learning **more about computer science and engineering**
+- 📝 Writes technically interesting subjects
 
-- 👯 I’m looking to collaborate on **AI/ML project**
-
-- 🤝 I’m looking for help with **OSINT**
-
-- 💬 Ask me about **anything about computers that excites**
+- 📊 Fond of architectures.
 
 - 📫 How to reach me **sairaj10adhav@gmail.com**
 
-- ⚡ Fun fact **Nothing is more important than hunger to grow**
+- ⚡ Fun fact **Everything is fun when you're interested!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
