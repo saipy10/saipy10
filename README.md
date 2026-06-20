@@ -7,8 +7,6 @@
 
 - 📊 Fond of computer architectures and system design
 
-- 📫 How to reach me **sairaj10adhav@gmail.com**
-
 - ⚡ Fun fact **Everything is fun when you're interested!**
 
 <h3 align="left">Connect with me:</h3>
