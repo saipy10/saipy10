@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sairaj G. Adhav</h1>
 <h3 align="center">A passionate computer engineer </h3>
 
-- 🔭 Interested in **Artificial Intelligence** and **Machine Learning**
+- 🔭 Interested in **Artificial Intelligence** and **System Design**
 
 - 📝 Writes technically interesting subjects
 
